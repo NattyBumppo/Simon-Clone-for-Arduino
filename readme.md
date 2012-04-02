@@ -4,7 +4,7 @@ This is the C++ code for an Arduino project to build a clone of the classic elec
 
 For the Super Famicom controller input, I'm using the excellent SNESpad library made by [Rob Duarte](http://code.google.com/p/nespad/). Thanks, Rob!!
 
-You can watch a video of an early version of the hardware [here](http://www.youtube.com/watch?v=kHPPuXDk-Dk). Schematics are forthcoming.
+You can watch a video of an early version of the hardware [here](http://www.youtube.com/watch?v=kHPPuXDk-Dk).
 
 # Credits
 
